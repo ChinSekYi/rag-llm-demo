@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_API_KEY": "cr_521f36a9ef58f9f129801fd370c0547b542f1e55b94893b7721148042e3da92a",
+    "ANTHROPIC_BASE_URL": "http://cc-proxy.patsnap.info/api"
+  }
+}

@@ -6,3 +6,5 @@ format:
 	isort .
 
 
+app:
+	streamlit run app_interface/app.py

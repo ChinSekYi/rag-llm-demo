@@ -1,8 +1,10 @@
-langchain
-langchain-core
-langchain-community
-langchain-text-splitters
-langchain-google-genai
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+langchain-huggingface>=0.0.1
+langchain-text-splitters>=0.0.1
+langchain-google-genai>=0.0.1
+langchain_ollama
 pypdf
 pymupdf
 ipykernel
@@ -11,3 +13,4 @@ faiss-cpu
 chromadb
 google-generativeai
 python-dotenv
+streamlit
